@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.musab_nawaz.MyExpenseTracker"
     },
     "web": {
       "favicon": "./assets/favicon.png"
